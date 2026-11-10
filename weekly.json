@@ -1,0 +1,30 @@
+[
+	{
+		"id": "rapide",
+		"speed": 1.35,
+		"ramp": 1.0,
+		"base": 3.0,
+		"tol": 1.0
+	},
+	{
+		"id": "etroit",
+		"speed": 1.0,
+		"ramp": 1.0,
+		"base": 2.1,
+		"tol": 1.0
+	},
+	{
+		"id": "accelere",
+		"speed": 0.9,
+		"ramp": 2.0,
+		"base": 3.0,
+		"tol": 1.0
+	},
+	{
+		"id": "precis",
+		"speed": 1.1,
+		"ramp": 1.0,
+		"base": 3.0,
+		"tol": 0.6
+	}
+]

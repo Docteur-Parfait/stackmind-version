@@ -1,0 +1,200 @@
+[
+	{
+		"id": "classique",
+		"price": 0,
+		"ramp": [],
+		"amount": 18,
+		"col": "#ffffff"
+	},
+	{
+		"id": "dore",
+		"price": 600,
+		"ramp": [
+			"#fff4b0",
+			"#ffc83d",
+			"#ff8a1e"
+		],
+		"amount": 28,
+		"col": "#ffc83d"
+	},
+	{
+		"id": "bulles",
+		"price": 900,
+		"ramp": [
+			"#ffffff",
+			"#bff4ff",
+			"#6fd8ff"
+		],
+		"amount": 22,
+		"col": "#8fe0ff",
+		"speed": 0.45,
+		"grav": 1.2,
+		"size": 1.7,
+		"life": 1.5
+	},
+	{
+		"id": "arcenciel",
+		"price": 1200,
+		"ramp": [
+			"#ff4d6d",
+			"#ffc83d",
+			"#3ee08f",
+			"#4fa3ff",
+			"#b56cff"
+		],
+		"amount": 34,
+		"col": "#ff7ed2"
+	},
+	{
+		"id": "feu",
+		"price": 1500,
+		"ramp": [
+			"#fff4b0",
+			"#ffb020",
+			"#ff4a1e",
+			"#8a1010"
+		],
+		"amount": 36,
+		"col": "#ff6a20",
+		"speed": 1.1,
+		"grav": 4.0,
+		"spread": 22.0,
+		"size": 1.2
+	},
+	{
+		"id": "neige",
+		"price": 1900,
+		"ramp": [
+			"#ffffff",
+			"#e6f4ff",
+			"#9fd0ff"
+		],
+		"amount": 40,
+		"col": "#cfe8ff",
+		"speed": 0.7,
+		"grav": -1.6,
+		"spread": 85.0,
+		"life": 1.7
+	},
+	{
+		"id": "cosmique",
+		"price": 2000,
+		"ramp": [
+			"#ffffff",
+			"#9be8ff",
+			"#b56cff",
+			"#3d2ad0"
+		],
+		"amount": 42,
+		"col": "#9be8ff"
+	},
+	{
+		"id": "toxique",
+		"price": 2600,
+		"ramp": [
+			"#f4ffb0",
+			"#7dff3a",
+			"#1fc46a"
+		],
+		"amount": 44,
+		"col": "#7dff3a",
+		"size": 1.2
+	},
+	{
+		"id": "bonbon",
+		"price": 3200,
+		"ramp": [
+			"#ff8fd0",
+			"#fff08a",
+			"#8af0d8",
+			"#b9a0ff"
+		],
+		"amount": 46,
+		"col": "#ff8fd0",
+		"size": 1.3
+	},
+	{
+		"id": "glace",
+		"price": 4000,
+		"ramp": [
+			"#ffffff",
+			"#aef6ff",
+			"#4fc8ff"
+		],
+		"amount": 50,
+		"col": "#aef6ff",
+		"speed": 1.3,
+		"spread": 70.0
+	},
+	{
+		"id": "fontaine",
+		"price": 5000,
+		"ramp": [
+			"#ffffff",
+			"#fff4b0",
+			"#ffc83d"
+		],
+		"amount": 56,
+		"col": "#ffe07a",
+		"speed": 1.9,
+		"grav": -14.0,
+		"spread": 14.0,
+		"life": 1.3
+	},
+	{
+		"id": "neon",
+		"price": 6000,
+		"ramp": [
+			"#ff3dd8",
+			"#8a5cff",
+			"#3dfcff"
+		],
+		"amount": 64,
+		"col": "#ff3dd8",
+		"size": 0.8
+	},
+	{
+		"id": "explosion",
+		"price": 8000,
+		"ramp": [
+			"#ffffff",
+			"#ffe04a",
+			"#ff7a1e",
+			"#ff2d3d"
+		],
+		"amount": 80,
+		"col": "#ff7a1e",
+		"speed": 2.1,
+		"spread": 180.0
+	},
+	{
+		"id": "diamant",
+		"price": 10000,
+		"ramp": [
+			"#ffffff",
+			"#d8fbff",
+			"#c8b8ff"
+		],
+		"amount": 72,
+		"col": "#d8fbff",
+		"size": 1.4,
+		"life": 1.3
+	},
+	{
+		"id": "supernova",
+		"price": 15000,
+		"ramp": [
+			"#ffffff",
+			"#ff4d6d",
+			"#ffc83d",
+			"#3ee08f",
+			"#4fa3ff",
+			"#b56cff"
+		],
+		"amount": 110,
+		"col": "#ffffff",
+		"speed": 2.4,
+		"spread": 180.0,
+		"size": 1.5
+	}
+]

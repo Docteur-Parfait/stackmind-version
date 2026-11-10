@@ -1,0 +1,230 @@
+[
+	{
+		"id": "auto",
+		"price": 0,
+		"offset": 0.0,
+		"fixed": -1.0,
+		"col": "#6fd8ff"
+	},
+	{
+		"id": "crepuscule",
+		"price": 400,
+		"offset": 45.0,
+		"fixed": -1.0,
+		"col": "#ff9ab8"
+	},
+	{
+		"id": "desert",
+		"price": 600,
+		"col": "#ffc07a",
+		"scenery": 1,
+		"weather": 3,
+		"wcol": "#ffd9a0",
+		"pal": {
+			"top": "#3f97e6",
+			"mid": "#ffd39a",
+			"bot": "#ffae66",
+			"sun": 1.2,
+			"clouds": 0.1,
+			"bokeh": 0.2
+		}
+	},
+	{
+		"id": "nuit",
+		"price": 900,
+		"offset": 62.0,
+		"fixed": -1.0,
+		"col": "#8a5cf0"
+	},
+	{
+		"id": "neige",
+		"price": 1100,
+		"col": "#d6e6f7",
+		"scenery": 2,
+		"weather": 1,
+		"wcol": "#ffffff",
+		"pal": {
+			"top": "#7fa8de",
+			"mid": "#cfe0f5",
+			"bot": "#f4f7ff",
+			"sun": 0.4,
+			"clouds": 0.5,
+			"bokeh": 0.3
+		}
+	},
+	{
+		"id": "lagon",
+		"price": 1300,
+		"col": "#7fe3ff",
+		"scenery": 4,
+		"pal": {
+			"top": "#1a9dff",
+			"mid": "#7fe3ff",
+			"bot": "#fff1c9",
+			"sun": 1.0,
+			"clouds": 0.4,
+			"bokeh": 0.7
+		}
+	},
+	{
+		"id": "espace",
+		"price": 1500,
+		"offset": 0.0,
+		"fixed": 100.0,
+		"col": "#4a34d8"
+	},
+	{
+		"id": "pluie",
+		"price": 1800,
+		"col": "#7d8aa8",
+		"weather": 2,
+		"wcol": "#dfe8ff",
+		"pal": {
+			"top": "#44526f",
+			"mid": "#7d8aa8",
+			"bot": "#a9b4c8",
+			"clouds": 0.9,
+			"bokeh": 0.2
+		}
+	},
+	{
+		"id": "sakura",
+		"price": 2200,
+		"col": "#ffb3d4",
+		"scenery": 7,
+		"weather": 4,
+		"wcol": "#ff8fbf",
+		"pal": {
+			"top": "#ff9ac6",
+			"mid": "#ffd0e4",
+			"bot": "#fff0e8",
+			"sun": 0.6,
+			"clouds": 0.3,
+			"bokeh": 0.5
+		}
+	},
+	{
+		"id": "foret",
+		"price": 2800,
+		"col": "#3d6e6a",
+		"scenery": 3,
+		"weather": 5,
+		"wcol": "#fff3a0",
+		"pal": {
+			"top": "#1f3a5f",
+			"mid": "#3d6e6a",
+			"bot": "#f0b27a",
+			"sun": 0.3,
+			"clouds": 0.2,
+			"stars": 0.3,
+			"bokeh": 0.2
+		}
+	},
+	{
+		"id": "arcenciel",
+		"price": 3500,
+		"col": "#a0e4ff",
+		"scenery": 7,
+		"rainbow": 1.0,
+		"pal": {
+			"top": "#3aa8ff",
+			"mid": "#a0e4ff",
+			"bot": "#fff6d6",
+			"sun": 0.8,
+			"clouds": 0.6,
+			"bokeh": 0.4
+		}
+	},
+	{
+		"id": "orage",
+		"price": 4500,
+		"col": "#3e3560",
+		"weather": 2,
+		"wcol": "#b8c4ff",
+		"storm": 1.0,
+		"pal": {
+			"top": "#231a3d",
+			"mid": "#3e3560",
+			"bot": "#6a5f86",
+			"clouds": 1.0,
+			"bokeh": 0.1
+		}
+	},
+	{
+		"id": "aurore",
+		"price": 5500,
+		"col": "#1d6b6a",
+		"scenery": 2,
+		"aurora": 1.0,
+		"pal": {
+			"top": "#0b1a3a",
+			"mid": "#153a5c",
+			"bot": "#3f6f8f",
+			"stars": 1.0,
+			"bokeh": 0.2
+		}
+	},
+	{
+		"id": "volcan",
+		"price": 7000,
+		"col": "#ff7a3a",
+		"scenery": 5,
+		"weather": 7,
+		"wcol": "#ff9a3a",
+		"pal": {
+			"top": "#2b0f1e",
+			"mid": "#8a2a2a",
+			"bot": "#ff7a3a",
+			"stars": 0.3,
+			"clouds": 0.3,
+			"bokeh": 0.3
+		}
+	},
+	{
+		"id": "abysses",
+		"price": 8500,
+		"col": "#0b4f7a",
+		"scenery": 6,
+		"weather": 6,
+		"wcol": "#bff4ff",
+		"rays": 1.0,
+		"pal": {
+			"top": "#021b3a",
+			"mid": "#0b4f7a",
+			"bot": "#1fa0b8",
+			"bokeh": 0.8
+		}
+	},
+	{
+		"id": "bonbon",
+		"price": 10000,
+		"col": "#ffc2e8",
+		"scenery": 7,
+		"weather": 8,
+		"pal": {
+			"top": "#ff7ec7",
+			"mid": "#ffc2e8",
+			"bot": "#c9f7ff",
+			"sun": 0.5,
+			"clouds": 0.7,
+			"bokeh": 0.5
+		}
+	},
+	{
+		"id": "supernova",
+		"price": 15000,
+		"col": "#ff4fa0",
+		"scenery": 6,
+		"weather": 5,
+		"wcol": "#ffffff",
+		"pal": {
+			"top": "#1a0b3a",
+			"mid": "#6a1fb0",
+			"bot": "#ff4fa0",
+			"stars": 1.0,
+			"nebula": 1.0,
+			"planets": 0.6,
+			"bokeh": 0.5
+		}
+	}
+]

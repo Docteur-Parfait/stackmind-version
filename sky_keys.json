@@ -1,0 +1,74 @@
+[
+	{
+		"h": 0,
+		"top": "#1a9dff",
+		"mid": "#6fd8ff",
+		"bot": "#ffd59c",
+		"sun": 1.0,
+		"clouds": 0.5,
+		"stars": 0.0,
+		"planets": 0.0,
+		"bokeh": 0.6,
+		"nebula": 0.0
+	},
+	{
+		"h": 20,
+		"top": "#10c0dc",
+		"mid": "#72ecd0",
+		"bot": "#ffb8a0",
+		"sun": 0.7,
+		"clouds": 0.6,
+		"stars": 0.0,
+		"planets": 0.0,
+		"bokeh": 0.5,
+		"nebula": 0.0
+	},
+	{
+		"h": 40,
+		"top": "#5a74ff",
+		"mid": "#b09cff",
+		"bot": "#ffaad6",
+		"sun": 0.3,
+		"clouds": 0.7,
+		"stars": 0.0,
+		"planets": 0.0,
+		"bokeh": 0.5,
+		"nebula": 0.0
+	},
+	{
+		"h": 60,
+		"top": "#9a4cf0",
+		"mid": "#ff7ed2",
+		"bot": "#ffb98a",
+		"sun": 0.0,
+		"clouds": 0.6,
+		"stars": 0.35,
+		"planets": 0.2,
+		"bokeh": 0.6,
+		"nebula": 0.3
+	},
+	{
+		"h": 80,
+		"top": "#5a32e0",
+		"mid": "#c548e6",
+		"bot": "#ff74b8",
+		"sun": 0.0,
+		"clouds": 0.2,
+		"stars": 0.85,
+		"planets": 0.7,
+		"bokeh": 0.5,
+		"nebula": 0.8
+	},
+	{
+		"h": 100,
+		"top": "#3d2ad0",
+		"mid": "#9232e8",
+		"bot": "#e848c8",
+		"sun": 0.0,
+		"clouds": 0.0,
+		"stars": 1.0,
+		"planets": 1.0,
+		"bokeh": 0.4,
+		"nebula": 1.0
+	}
+]

@@ -1,0 +1,62 @@
+[
+	{
+		"id": "row5",
+		"kind": "perfects_row",
+		"goal": 5,
+		"reward": 40
+	},
+	{
+		"id": "row8",
+		"kind": "perfects_row",
+		"goal": 8,
+		"reward": 70
+	},
+	{
+		"id": "floors25",
+		"kind": "floors",
+		"goal": 25,
+		"reward": 40
+	},
+	{
+		"id": "floors50",
+		"kind": "floors",
+		"goal": 50,
+		"reward": 80
+	},
+	{
+		"id": "games3",
+		"kind": "games",
+		"goal": 3,
+		"reward": 30
+	},
+	{
+		"id": "games6",
+		"kind": "games",
+		"goal": 6,
+		"reward": 50
+	},
+	{
+		"id": "ai1",
+		"kind": "ai_new",
+		"goal": 1,
+		"reward": 50
+	},
+	{
+		"id": "coins100",
+		"kind": "coins",
+		"goal": 100,
+		"reward": 40
+	},
+	{
+		"id": "mode1",
+		"kind": "mode",
+		"goal": 1,
+		"reward": 30
+	},
+	{
+		"id": "perf20",
+		"kind": "perfects",
+		"goal": 20,
+		"reward": 50
+	}
+]

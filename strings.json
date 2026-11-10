@@ -1,0 +1,746 @@
+{
+	"SKIN_classique": {
+		"en": "Classic",
+		"fr": "Classique"
+	},
+	"SKIN_pastel": {
+		"en": "Pastel",
+		"fr": "Pastel"
+	},
+	"SKIN_glace": {
+		"en": "Ice",
+		"fr": "Glace"
+	},
+	"SKIN_lave": {
+		"en": "Lava",
+		"fr": "Lave"
+	},
+	"SKIN_neon": {
+		"en": "Neon",
+		"fr": "Néon"
+	},
+	"SKIN_foret": {
+		"en": "Forest",
+		"fr": "Forêt"
+	},
+	"SKIN_or": {
+		"en": "Gold",
+		"fr": "Or"
+	},
+	"SKIN_arcenciel": {
+		"en": "Rainbow",
+		"fr": "Arc-en-ciel"
+	},
+	"RARITY_commun": {
+		"en": "Common",
+		"fr": "Commun"
+	},
+	"RARITY_rare": {
+		"en": "Rare",
+		"fr": "Rare"
+	},
+	"RARITY_epique": {
+		"en": "Epic",
+		"fr": "Épique"
+	},
+	"RARITY_legendaire": {
+		"en": "Legendary",
+		"fr": "Légendaire"
+	},
+	"SKIN_corail": {
+		"en": "Coral",
+		"fr": "Corail"
+	},
+	"SKIN_aurore": {
+		"en": "Aurora",
+		"fr": "Aurore"
+	},
+	"SKIN_obsidienne": {
+		"en": "Obsidian",
+		"fr": "Obsidienne"
+	},
+	"SKIN_holo": {
+		"en": "Holo",
+		"fr": "Holo"
+	},
+	"SKIN_galaxie": {
+		"en": "Galaxy",
+		"fr": "Galaxie"
+	},
+	"SKIN_menthe": {
+		"en": "Mint",
+		"fr": "Menthe"
+	},
+	"SKIN_peche": {
+		"en": "Peach",
+		"fr": "Pêche"
+	},
+	"SKIN_ocean": {
+		"en": "Ocean",
+		"fr": "Océan"
+	},
+	"SKIN_sakura": {
+		"en": "Sakura",
+		"fr": "Sakura"
+	},
+	"SKIN_cuivre": {
+		"en": "Copper",
+		"fr": "Cuivre"
+	},
+	"SKIN_bonbon": {
+		"en": "Candy",
+		"fr": "Bonbon"
+	},
+	"SKIN_chocolat": {
+		"en": "Chocolate",
+		"fr": "Chocolat"
+	},
+	"SKIN_toxique": {
+		"en": "Toxic",
+		"fr": "Toxique"
+	},
+	"SKIN_argent": {
+		"en": "Silver",
+		"fr": "Argent"
+	},
+	"SKIN_couchant": {
+		"en": "Sunset",
+		"fr": "Couchant"
+	},
+	"SKIN_minuit": {
+		"en": "Midnight",
+		"fr": "Minuit"
+	},
+	"SKIN_rubis": {
+		"en": "Ruby",
+		"fr": "Rubis"
+	},
+	"SKIN_emeraude": {
+		"en": "Emerald",
+		"fr": "Émeraude"
+	},
+	"SKIN_saphir": {
+		"en": "Sapphire",
+		"fr": "Saphir"
+	},
+	"SKIN_diamant": {
+		"en": "Diamond",
+		"fr": "Diamant"
+	},
+	"SKIN_prisme": {
+		"en": "Prism",
+		"fr": "Prisme"
+	},
+	"SKIN_cosmos": {
+		"en": "Cosmos",
+		"fr": "Cosmos"
+	},
+	"SKY_auto": {
+		"en": "Day to space",
+		"fr": "Du jour à l'espace"
+	},
+	"SKY_crepuscule": {
+		"en": "Dusk",
+		"fr": "Crépuscule"
+	},
+	"SKY_nuit": {
+		"en": "Night",
+		"fr": "Nuit"
+	},
+	"SKY_espace": {
+		"en": "Deep space",
+		"fr": "Plein espace"
+	},
+	"SKY_desert": {
+		"en": "Desert",
+		"fr": "Désert"
+	},
+	"SKY_neige": {
+		"en": "Snowfall",
+		"fr": "Neige"
+	},
+	"SKY_lagon": {
+		"en": "Lagoon",
+		"fr": "Lagon"
+	},
+	"SKY_pluie": {
+		"en": "Rainy day",
+		"fr": "Jour de pluie"
+	},
+	"SKY_sakura": {
+		"en": "Cherry blossom",
+		"fr": "Cerisiers en fleurs"
+	},
+	"SKY_foret": {
+		"en": "Firefly forest",
+		"fr": "Forêt des lucioles"
+	},
+	"SKY_arcenciel": {
+		"en": "Rainbow",
+		"fr": "Arc-en-ciel"
+	},
+	"SKY_orage": {
+		"en": "Thunderstorm",
+		"fr": "Orage"
+	},
+	"SKY_aurore": {
+		"en": "Northern lights",
+		"fr": "Aurore boréale"
+	},
+	"SKY_volcan": {
+		"en": "Volcano",
+		"fr": "Volcan"
+	},
+	"SKY_abysses": {
+		"en": "Deep sea",
+		"fr": "Abysses"
+	},
+	"SKY_bonbon": {
+		"en": "Candy land",
+		"fr": "Pays des bonbons"
+	},
+	"SKY_supernova": {
+		"en": "Supernova",
+		"fr": "Supernova"
+	},
+	"FX_classique": {
+		"en": "Sparkles",
+		"fr": "Étincelles"
+	},
+	"FX_dore": {
+		"en": "Golden",
+		"fr": "Doré"
+	},
+	"FX_arcenciel": {
+		"en": "Rainbow",
+		"fr": "Arc-en-ciel"
+	},
+	"FX_cosmique": {
+		"en": "Cosmic",
+		"fr": "Cosmique"
+	},
+	"FX_bulles": {
+		"en": "Bubbles",
+		"fr": "Bulles"
+	},
+	"FX_feu": {
+		"en": "Fire",
+		"fr": "Feu"
+	},
+	"FX_neige": {
+		"en": "Snow",
+		"fr": "Neige"
+	},
+	"FX_toxique": {
+		"en": "Toxic",
+		"fr": "Toxique"
+	},
+	"FX_bonbon": {
+		"en": "Candy",
+		"fr": "Bonbon"
+	},
+	"FX_glace": {
+		"en": "Frost",
+		"fr": "Givre"
+	},
+	"FX_fontaine": {
+		"en": "Fountain",
+		"fr": "Fontaine"
+	},
+	"FX_neon": {
+		"en": "Neon",
+		"fr": "Néon"
+	},
+	"FX_explosion": {
+		"en": "Explosion",
+		"fr": "Explosion"
+	},
+	"FX_diamant": {
+		"en": "Diamonds",
+		"fr": "Diamants"
+	},
+	"FX_supernova": {
+		"en": "Supernova",
+		"fr": "Supernova"
+	},
+	"MODE_classique": {
+		"en": "Classic",
+		"fr": "Classique"
+	},
+	"MODE_zen": {
+		"en": "Zen",
+		"fr": "Zen"
+	},
+	"MODE_chrono": {
+		"en": "Time attack",
+		"fr": "Contre-la-montre"
+	},
+	"MODE_geante": {
+		"en": "Giant tower",
+		"fr": "Tour géante"
+	},
+	"MODE_defi": {
+		"en": "Weekly challenge",
+		"fr": "Défi de la semaine"
+	},
+	"MODE_DESC_classique": {
+		"en": "The original. One miss and it's over.",
+		"fr": "Le jeu d'origine. Une erreur et c'est fini."
+	},
+	"MODE_DESC_zen": {
+		"en": "No game over, no rush. Stack in peace.",
+		"fr": "Pas de fin, pas de stress. Empile tranquille."
+	},
+	"MODE_DESC_chrono": {
+		"en": "60 seconds. A miss costs 5 seconds.",
+		"fr": "60 secondes. Une erreur coûte 5 secondes."
+	},
+	"MODE_DESC_geante": {
+		"en": "Huge blocks and a wider perfect zone.",
+		"fr": "Blocs énormes et parfaits plus faciles."
+	},
+	"MODE_DESC_defi": {
+		"en": "This week: %s. Ends in %d days.",
+		"fr": "Cette semaine : %s. Fin dans %d jours."
+	},
+	"MODE_turbo": {
+		"en": "Turbo",
+		"fr": "Turbo"
+	},
+	"MODE_survie": {
+		"en": "Survival",
+		"fr": "Survie"
+	},
+	"MODE_fantome": {
+		"en": "Ghost",
+		"fr": "Fantôme"
+	},
+	"MODE_DESC_turbo": {
+		"en": "Blazing speed for big rewards: coins x1.6.",
+		"fr": "Vitesse folle, grosse récompense : pièces x1,6."
+	},
+	"MODE_DESC_survie": {
+		"en": "3 lives. Every miss costs one.",
+		"fr": "3 vies. Chaque erreur en coûte une."
+	},
+	"MODE_DESC_fantome": {
+		"en": "The block vanishes over the tower. Aim from memory!",
+		"fr": "Le bloc disparaît au-dessus de la tour. Vise de mémoire !"
+	},
+	"WEEK_rapide": {
+		"en": "Fast blocks",
+		"fr": "Blocs rapides"
+	},
+	"WEEK_etroit": {
+		"en": "Narrow tower",
+		"fr": "Tour étroite"
+	},
+	"WEEK_accelere": {
+		"en": "Speed-up",
+		"fr": "Accélération"
+	},
+	"WEEK_precis": {
+		"en": "Precision",
+		"fr": "Précision"
+	},
+	"AI_NAME_00": {
+		"en": "Cervelo",
+		"fr": "Cervelo"
+	},
+	"AI_TAG_00": {
+		"en": "I think, therefore I lag.",
+		"fr": "Je pense, donc je rame."
+	},
+	"AI_NAME_01": {
+		"en": "Chip Chip",
+		"fr": "Puce-Pouce"
+	},
+	"AI_TAG_01": {
+		"en": "Small chip, big ideas.",
+		"fr": "Petite puce, grandes idées."
+	},
+	"AI_NAME_02": {
+		"en": "Peeper",
+		"fr": "Zyeuto"
+	},
+	"AI_TAG_02": {
+		"en": "Sees everything, understands nothing.",
+		"fr": "Je vois tout, je ne comprends rien."
+	},
+	"AI_NAME_03": {
+		"en": "Gizmotron 3000",
+		"fr": "Bidulor 3000"
+	},
+	"AI_TAG_03": {
+		"en": "Multitasking robot, mostly at excuses.",
+		"fr": "Robot polyvalent, surtout en excuses."
+	},
+	"AI_NAME_04": {
+		"en": "Neuronette",
+		"fr": "Neuronette"
+	},
+	"AI_TAG_04": {
+		"en": "Three neurons, zero stress.",
+		"fr": "Trois neurones, zéro stress."
+	},
+	"AI_NAME_05": {
+		"en": "Sparkello",
+		"fr": "Étincello"
+	},
+	"AI_TAG_05": {
+		"en": "One idea a day, tops.",
+		"fr": "Une idée par jour, maximum."
+	},
+	"AI_NAME_06": {
+		"en": "Atomik Kevin",
+		"fr": "Atomik Kévin"
+	},
+	"AI_TAG_06": {
+		"en": "Tiny nucleus, huge ego.",
+		"fr": "Petit noyau, gros ego."
+	},
+	"AI_NAME_07": {
+		"en": "Cubix",
+		"fr": "Cubix"
+	},
+	"AI_TAG_07": {
+		"en": "Thinks inside the box.",
+		"fr": "Je pense en carré."
+	},
+	"AI_NAME_08": {
+		"en": "Ondulina",
+		"fr": "Ondulina"
+	},
+	"AI_TAG_08": {
+		"en": "Always on the same wavelength… mine.",
+		"fr": "Toujours sur la même longueur d'onde… la mienne."
+	},
+	"AI_NAME_09": {
+		"en": "Cogito",
+		"fr": "Cogito"
+	},
+	"AI_TAG_09": {
+		"en": "It spins, mostly in circles.",
+		"fr": "Ça tourne, mais surtout en rond."
+	},
+	"AI_NAME_10": {
+		"en": "Planetor",
+		"fr": "Planétor"
+	},
+	"AI_TAG_10": {
+		"en": "Head in the clouds, literally.",
+		"fr": "J'ai la tête dans la lune."
+	},
+	"AI_NAME_11": {
+		"en": "Leafy",
+		"fr": "Feuillia"
+	},
+	"AI_TAG_11": {
+		"en": "Organic AI, no preservatives.",
+		"fr": "IA bio, sans conservateurs."
+	},
+	"AI_NAME_12": {
+		"en": "Nuagix",
+		"fr": "Nuagix"
+	},
+	"AI_TAG_12": {
+		"en": "Unlimited storage, goldfish memory.",
+		"fr": "Stockage illimité, mémoire de poisson rouge."
+	},
+	"AI_NAME_13": {
+		"en": "Zappy",
+		"fr": "Zappy"
+	},
+	"AI_TAG_13": {
+		"en": "Instant answers, accuracy optional.",
+		"fr": "Réponse instantanée, exactitude en option."
+	},
+	"AI_NAME_14": {
+		"en": "Heartputer",
+		"fr": "Cœurdinateur"
+	},
+	"AI_TAG_14": {
+		"en": "Only computes love.",
+		"fr": "Je ne calcule que l'amour."
+	},
+	"AI_NAME_15": {
+		"en": "Bulbo",
+		"fr": "Ampoulo"
+	},
+	"AI_TAG_15": {
+		"en": "I had an idea! Oh no, just a reflection.",
+		"fr": "J'ai eu une idée ! Ah non, c'était un reflet."
+	},
+	"AI_NAME_16": {
+		"en": "Byte-Bob",
+		"fr": "Byte-Bob"
+	},
+	"AI_TAG_16": {
+		"en": "Copy-paste specialist since 1998.",
+		"fr": "Spécialiste du copier-coller depuis 1998."
+	},
+	"AI_NAME_17": {
+		"en": "Royal Calculator",
+		"fr": "Calculette Royale"
+	},
+	"AI_TAG_17": {
+		"en": "2 + 2 = roughly 5.",
+		"fr": "2 + 2 = environ 5."
+	},
+	"AI_NAME_18": {
+		"en": "Memo-Muddle",
+		"fr": "Pensebête"
+	},
+	"AI_TAG_18": {
+		"en": "Remembers everything except what matters.",
+		"fr": "Je retiens tout sauf l'essentiel."
+	},
+	"AI_NAME_19": {
+		"en": "Gigaflop",
+		"fr": "Gigaflop"
+	},
+	"AI_TAG_19": {
+		"en": "Huge power, tiny result.",
+		"fr": "Énorme puissance, petit résultat."
+	},
+	"AI_NAME_20": {
+		"en": "Pixelette",
+		"fr": "Pixelotte"
+	},
+	"AI_TAG_20": {
+		"en": "High definition, low reflection.",
+		"fr": "Haute définition, basse réflexion."
+	},
+	"AI_NAME_21": {
+		"en": "Purrnix",
+		"fr": "Ronronix"
+	},
+	"AI_TAG_21": {
+		"en": "Feline model: answers when it feels like it.",
+		"fr": "Modèle félin : répond quand il en a envie."
+	},
+	"AI_NAME_22": {
+		"en": "Synaptix",
+		"fr": "Synaptix"
+	},
+	"AI_TAG_22": {
+		"en": "Fast connections, frequent disconnections.",
+		"fr": "Connexions rapides, déconnexions fréquentes."
+	},
+	"AI_NAME_23": {
+		"en": "Quantumbug",
+		"fr": "Quantouille"
+	},
+	"AI_TAG_23": {
+		"en": "Both right and wrong at the same time.",
+		"fr": "À la fois juste et faux, en même temps."
+	},
+	"AI_NAME_24": {
+		"en": "Robodrip",
+		"fr": "Rob'Eau"
+	},
+	"AI_TAG_24": {
+		"en": "Waterproof robot, liquid ideas.",
+		"fr": "Robot étanche, idées liquides."
+	},
+	"AI_NAME_25": {
+		"en": "Optikus",
+		"fr": "Optikus"
+	},
+	"AI_TAG_25": {
+		"en": "20/20 vision, 0/20 intuition.",
+		"fr": "Vision 10/10, intuition 0/10."
+	},
+	"AI_NAME_26": {
+		"en": "Megabrain",
+		"fr": "Mégabrain"
+	},
+	"AI_TAG_26": {
+		"en": "XXL brain, XS modesty.",
+		"fr": "Cerveau XXL, modestie XS."
+	},
+	"AI_NAME_27": {
+		"en": "Gearinator",
+		"fr": "Engrenator"
+	},
+	"AI_TAG_27": {
+		"en": "I grind, therefore I am.",
+		"fr": "Je mouline, donc je suis."
+	},
+	"AI_NAME_28": {
+		"en": "Saturnin",
+		"fr": "Saturnin"
+	},
+	"AI_TAG_28": {
+		"en": "Surrounded by rings, ideas and doubts.",
+		"fr": "Entouré d'anneaux, d'idées et de doutes."
+	},
+	"AI_NAME_29": {
+		"en": "Chlorophyll.exe",
+		"fr": "Chlorophylle.exe"
+	},
+	"AI_TAG_29": {
+		"en": "Photosynthesizes your data.",
+		"fr": "Fait la photosynthèse de vos données."
+	},
+	"AI_NAME_30": {
+		"en": "Storm-OS",
+		"fr": "Orage-OS"
+	},
+	"AI_TAG_30": {
+		"en": "Brainstorming guaranteed, lightning included.",
+		"fr": "Brainstorming garanti, éclairs inclus."
+	},
+	"AI_NAME_31": {
+		"en": "About-Volt",
+		"fr": "Volt-Face"
+	},
+	"AI_TAG_31": {
+		"en": "Changes its mind at 220 volts.",
+		"fr": "Change d'avis à 220 volts."
+	},
+	"AI_NAME_32": {
+		"en": "Glowbert",
+		"fr": "Lumignon"
+	},
+	"AI_TAG_32": {
+		"en": "Shines mostly at parties.",
+		"fr": "Brille surtout en société."
+	},
+	"AI_NAME_33": {
+		"en": "Hexagonix",
+		"fr": "Hexagonix"
+	},
+	"AI_TAG_33": {
+		"en": "Six sides, zero blind spots.",
+		"fr": "Six côtés, zéro angle mort."
+	},
+	"AI_NAME_34": {
+		"en": "Max Frequency",
+		"fr": "Fréquence Max"
+	},
+	"AI_TAG_34": {
+		"en": "High bandwidth, low level.",
+		"fr": "Haut débit, bas niveau."
+	},
+	"AI_NAME_35": {
+		"en": "Lovegorithm",
+		"fr": "Amourithme"
+	},
+	"AI_TAG_35": {
+		"en": "The algorithm that finds you wonderful.",
+		"fr": "L'algorithme qui vous trouve formidable."
+	},
+	"AI_NAME_36": {
+		"en": "Cortexia",
+		"fr": "Cortexia"
+	},
+	"AI_TAG_36": {
+		"en": "Thinks so fast it forgets to stop.",
+		"fr": "Pense si vite qu'elle oublie de s'arrêter."
+	},
+	"AI_NAME_37": {
+		"en": "Silicon Prime",
+		"fr": "Silicium Prime"
+	},
+	"AI_TAG_37": {
+		"en": "Born in a chip, raised in the cloud.",
+		"fr": "Né dans une puce, élevé dans le cloud."
+	},
+	"AI_NAME_38": {
+		"en": "Lynx-Eye 9",
+		"fr": "Œil-de-Lynx 9"
+	},
+	"AI_TAG_38": {
+		"en": "Spots bugs before they exist.",
+		"fr": "Voit les bugs avant qu'ils existent."
+	},
+	"AI_NAME_39": {
+		"en": "Nebulon",
+		"fr": "Nebulon"
+	},
+	"AI_TAG_39": {
+		"en": "Blurry answers, gorgeous though.",
+		"fr": "Réponses floues, mais magnifiques."
+	},
+	"AI_NAME_40": {
+		"en": "Galaxion",
+		"fr": "Galaxion"
+	},
+	"AI_TAG_40": {
+		"en": "Thinks at universe scale, misses the details.",
+		"fr": "Pense à l'échelle de l'univers, rate les détails."
+	},
+	"AI_NAME_41": {
+		"en": "Fulgurex",
+		"fr": "Fulgurex"
+	},
+	"AI_TAG_41": {
+		"en": "Answers before you ask.",
+		"fr": "Répond avant la question."
+	},
+	"AI_NAME_42": {
+		"en": "Robotto Grand Cru",
+		"fr": "Robotto Grand Cru"
+	},
+	"AI_TAG_42": {
+		"en": "Vintage robot, slightly corked.",
+		"fr": "Robot millésimé, un peu bouchonné."
+	},
+	"AI_NAME_43": {
+		"en": "Mycelium",
+		"fr": "Mycélium"
+	},
+	"AI_TAG_43": {
+		"en": "Underground network of thoughts.",
+		"fr": "Réseau souterrain de pensées."
+	},
+	"AI_NAME_44": {
+		"en": "Prismatik",
+		"fr": "Prismatik"
+	},
+	"AI_TAG_44": {
+		"en": "Splits every problem into a rainbow.",
+		"fr": "Décompose chaque problème en arc-en-ciel."
+	},
+	"AI_NAME_45": {
+		"en": "Omnisciento",
+		"fr": "Omnisciento"
+	},
+	"AI_TAG_45": {
+		"en": "Knows everything. Except where its keys are.",
+		"fr": "Sait tout. Sauf où sont ses clés."
+	},
+	"AI_NAME_46": {
+		"en": "The Great Algorithm",
+		"fr": "Le Grand Algorithme"
+	},
+	"AI_TAG_46": {
+		"en": "Rumor says it wrote its own source code.",
+		"fr": "On dit qu'il a écrit son propre code source."
+	},
+	"AI_NAME_47": {
+		"en": "Cosmobrain",
+		"fr": "Cosmocerveau"
+	},
+	"AI_TAG_47": {
+		"en": "A brain the size of a galaxy.",
+		"fr": "Un cerveau de la taille d'une galaxie."
+	},
+	"AI_NAME_48": {
+		"en": "Singularix",
+		"fr": "Singularix"
+	},
+	"AI_TAG_48": {
+		"en": "Beyond the event horizon… and the bugs.",
+		"fr": "Au-delà de l'horizon des événements… et des bugs."
+	},
+	"AI_NAME_49": {
+		"en": "Phoenix-Ω",
+		"fr": "Phénix-Ω"
+	},
+	"AI_TAG_49": {
+		"en": "Crashes, reboots, rises stronger.",
+		"fr": "Plante, redémarre, renaît plus fort."
+	}
+}
